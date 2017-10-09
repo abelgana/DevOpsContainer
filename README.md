@@ -1,0 +1,2 @@
+# DevOpsContainer
+dockerized DevOps workstation
